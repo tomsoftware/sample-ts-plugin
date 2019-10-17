@@ -1,6 +1,6 @@
 # Test - TypeScript Language Service Plugin
 
-This is a implementation of the *Writing a Language Service Plugin Wiki* [https://github.com/microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin]
+This is a implementation of the *Writing a Language Service Plugin Wiki* https://github.com/microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin
 
 ## setup
 - install typescript (my version is `tsc -version` : **Version 3.6.4** )
@@ -16,7 +16,7 @@ This is a implementation of the *Writing a Language Service Plugin Wiki* [https:
 
 
 ## state:
-- **OK**: build of plugin is after adding `undefined` to `info.languageService.getCompletionsAtPosition`
-- **OK**: build of `test.ts` is 
+- **OK**: build of plugin after adding `undefined` to `info.languageService.getCompletionsAtPosition`
+- **OK**: build of `test.ts` 
 - **Fail**: logging output!
 - **Fail**: replacing of `getDay` in `test.js` output!
